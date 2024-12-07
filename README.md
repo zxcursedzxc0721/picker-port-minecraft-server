@@ -6,7 +6,7 @@ This script allows you to find available ports for Minecraft Bedrock servers.
 
 To install the necessary dependencies, run this command in your console:
 
-npm install
+npm i .
 
 
 After installation, you'll have the required libraries to run the code. You can then start it using:
